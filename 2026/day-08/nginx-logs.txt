@@ -1,1 +1,5 @@
-Under working
+::1 - - [10/Oct/2026:05:22:19 +0000] "HEAD / HTTP/1.1" 200 0 "-" "curl/8.18.0"
+106.202.61.194 - - [10/Oct/2026:05:23:39 +0000] "GET / HTTP/1.1" 200 409 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+106.202.61.194 - - [10/Oct/2026:05:23:39 +0000] "GET /favicon.ico HTTP/1.1" 404 197 "http://54.162.176.172/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+52.248.43.126 - - [10/Oct/2026:05:26:37 +0000] "GET /druid/index.html HTTP/1.1" 404 134 "-" "Mozilla/5.0 zgrab/0.x"
+2026/10/09 02:22:44 [notice] 27777#27777: using inherited sockets from "5;6;"
