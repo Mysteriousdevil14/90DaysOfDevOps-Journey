@@ -1,0 +1,10 @@
+Log Analysis Report - 2026-11-19
+Log file: sample_log.log
+Total lines: 1999
+Total error count: 7
+
+--- Top 5 Error Messages ---
+      1 errorCode = 4,errorMessage = ERR_DATA_INSERT 
+
+--- Critical Events ---
+No critical events found.
