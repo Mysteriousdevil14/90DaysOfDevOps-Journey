@@ -53,6 +53,7 @@ In your `devops-git-practice` repo, perform the following:
 2. Pull that change to your local repo
 3. Answer in your notes: What is the difference between `git fetch` and `git pull`?
 
+
 ---
 
 ### Task 5: Clone vs Fork
